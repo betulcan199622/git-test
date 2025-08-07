@@ -1,4 +1,7 @@
 * {
-   color: red;
+  
    background-color: white; 
+   clear: blue;
+   display: flex;
+   background-color: black;
 }
