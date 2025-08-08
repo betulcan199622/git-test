@@ -1,11 +1,20 @@
 * {
   
-   background-color: white; 
-   clear: blue;
-   display: flex;
-   background-color: black;
-    background-color: white; 
-   clear: blue;
-   display: flex;
-   background-color: black;
+}
+h1{
+   color: aquamarine;
+   background-color: aliceblue;
+
+}
+p {
+   color: green;
+   font-size: 35px;
+
+}
+div {
+   width: 400px;
+   height: 400px;
+   color: blue;
+   background-color: aliceblue;
+
 }
